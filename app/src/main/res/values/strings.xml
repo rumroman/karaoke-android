@@ -1,0 +1,23 @@
+<resources>
+<!--    Регистрация-->
+    <string name="hint_email">Email</string>
+    <string name="btn_done">Готово</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_name">Имя</string>
+    <string name="btn_sign_up">Регистрация</string>
+    <string name="btn_login">Войти</string>
+    <string name="btn_link_login">Уже есть аккаунт</string>
+    <string name="btn_link_signup">Нет аккаунта, зарегистрироваться</string>
+    <string name="text_confirmation">Для завершения регистрации перейдите по ссылке в письме, отправленном на указанный e-mail. </string>
+    <string name="text_brand">Караоке-система </string>
+
+
+
+
+    <string name="app_name">Android Login</string>
+    <string name="err_msg_name">Please enter a Name</string>
+    <string name="err_msg_required">Valid Input Required</string>
+    <string name="err_msg_email">Please enter a Valid Email</string>
+    <string name="err_msg_password">Enter a Password</string>
+    <string name="err_msg_dob">Enter a valid D.O.B</string>
+</resources>
